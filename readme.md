@@ -1,4 +1,4 @@
 # Practica 1 - Pagina Personal - Luis Montero 
-![Ss1](.img/imagen.jpg?raw=true "Imagen 1")
-![Ss2](.img/imagen2.jpg?raw=true "Imagen 2")
-![Ss3](./img/imagen3.jpg?raw=true "Imagen 3")
+![Ss1](.img/Imagen.jpg)
+![Ss2](.img/Imagen2.jpg?raw=true "Imagen 2")
+![Ss3](./img/Imagen3.jpg?raw=true "Imagen 3")
