@@ -1,0 +1,27 @@
+h1{
+    color: brown;
+    background-color: khaki;
+    font-size: 30px;
+    margin-left: 440px;
+    margin-right: 435px;
+}  
+h3{
+    color: darkblue;
+    font-size: 20px;
+}  
+p{
+    color: darkgoldenrod;
+    font-size: 15px;
+}
+ul{
+    color: darkgoldenrod;
+    font-size: 15px;
+}
+a{
+    color:forestgreen;
+    font-size: 15px;
+}
+.foto{
+    margin-left: 550px;
+    margin-right:  550px;
+}
